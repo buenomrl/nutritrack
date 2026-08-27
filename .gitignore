@@ -42,3 +42,5 @@ yarn-error.*
 
 # OMC session state
 .omc/
+
+.vercel
