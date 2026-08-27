@@ -3,7 +3,7 @@
 A single-screen nutrition dashboard built with **Expo + React Native + TypeScript** (strict),
 running from the same codebase on iOS, Android and web. Mock data only — no backend.
 
-Live web build: deployed from this repo (`expo export -p web` → static output).
+Live web build (the web target of this same codebase): **https://nutritrack-blush-one.vercel.app**
 
 ## Run it
 
